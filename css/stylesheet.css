@@ -1,3 +1,21 @@
+.home_head {
+    background-image: url(../media/images/home_head.png);
+    background-repeat: no-repeat;
+    height: 63.4vh;
+}
+
+.home_head h1 {
+    font-size: 4.5em;
+    color: #ffffff;
+    padding: .2em .5em;
+}
+
+.home_head h2 {
+    color: #ffffff;
+    font-size: 2.25em;
+    padding: .2em 1em;
+}
+
 .home_card {
     box-shadow: 0 .7em .9em #b5b5b5;
     max-width: 37.5em;
@@ -13,7 +31,7 @@
 .home_card p {
     color: #ffffff;
     font-size: 1.687em;
-    padding: 0 0 1em 1em;
+    padding: 0 1em 1em 1em;
 }
 
 .home_card img {
@@ -40,4 +58,9 @@
 
 #red_home {
     background: #E84444;
+}
+
+.home_raise {
+    position: relative;
+    bottom: 4.875em;
 }
