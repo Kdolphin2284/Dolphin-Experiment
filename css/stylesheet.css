@@ -1,3 +1,7 @@
+html {
+    background: grey;
+}
+
 .home_head {
     background-image: url(../media/images/home_head.png);
     background-repeat: no-repeat;
